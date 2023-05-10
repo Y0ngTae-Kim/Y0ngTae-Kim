@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: [Personal mobile application](google-play-link)
 
-- 🌱 I’m currently learning: **React-native, Next.js**
-
 - 📫 How to reach me: **ista1024.app@gmail.com**
 
 - 📄 Know about my experiences: [https://fifth-stove-ea8.notion.site/YongTae-Kim-Resume-public-21626a7994934846a0f953f308bc0124](https://fifth-stove-ea8.notion.site/YongTae-Kim-Resume-public-21626a7994934846a0f953f308bc0124)
