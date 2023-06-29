@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm YongTae Kim</h1>
 <h3 align="center">A passionate frontend developer from Korea, in Australia</h3>
 
-- 🔭 I’m currently working on: [Personal mobile application](google-play-link)
+- 🔭 I’m currently working on: [Personal github pages](https://ista1024.github.io/)
 
 - 📫 How to reach me: **ista1024.app@gmail.com**
 
