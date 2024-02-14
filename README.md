@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm YongTae Kim</h1>
 <h3 align="center">A passionate frontend developer from Korea, in Australia</h3>
 
-- 🔭 I’m currently working on: [Personal github pages](https://ista1024.github.io/)
+<!--- 🔭 I’m currently working on: [Personal github pages](https://ista1024.github.io/)-->
+- 🔭 I’m currently working on: [Personal portfolio pages](https://ista1024-nextjs.vercel.app/)
 
-- 📫 How to reach me: **ista1024.app@gmail.com**
+- 📫 How to reach me: **ista1024@gmail.com**
 
 - 📄 Know about my experiences: [https://fifth-stove-ea8.notion.site/YongTae-Kim-Resume-public-21626a7994934846a0f953f308bc0124](https://fifth-stove-ea8.notion.site/YongTae-Kim-Resume-public-21626a7994934846a0f953f308bc0124)
 
