@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi 👋, I'm YongTae Kim</h1>
-<h3 align="center">A passionate frontend developer from Korea, in Australia</h3>
+![Header](./github_header_image.png)
+<!--<h1 align="center">Hi 👋, I'm YongTae Kim</h1>-->
+<h3 align="center">A passionate javascript developer from Korea, in Australia</h3>
 
 <!--- 🔭 I’m currently working on: [Personal github pages](https://ista1024.github.io/)-->
 - 🔭 I’m currently working on: [Personal portfolio pages](https://ista1024-nextjs.vercel.app/)
