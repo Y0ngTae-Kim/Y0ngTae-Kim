@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **I'm positive person 😆, not for COVID 🥲**
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ista1024?ext=heatmap)
+
 ### Resume & portfolio
 [Notion](https://fifth-stove-ea8.notion.site/YongTae-Kim-Resume-public-21626a7994934846a0f953f308bc0124)
 
